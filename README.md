@@ -92,10 +92,10 @@ We provide some samples of downscaled LR and real LR images in various resolutio
 ![LR](https://user-images.githubusercontent.com/31439731/186117319-99936363-23db-4bfa-9f2c-194304192663.jpg)
 
 ## Datasheet for D-LORD
-Link to Datasheet for D-LORD dataset - [link](https://github.com/aryachiranjeev/D-LORD/blob/main/Datasheet%20for%20D-LORD.pdf)
+Link to Datasheet for D-LORD dataset - [link](https://github.com/IAB-IITJ/D-LORD/blob/main/Datasheet%20for%20D-LORD.pdf)
 
 ## License Agreement for D-LORD
 The requester is expected to get this license agreement signed by the legal authority approved to sign on behalf of the institute.
-[License Agreement](https://github.com/aryachiranjeev/D-LORD/blob/main/License%20Agreement%20for%20D-LORD.pdf)
+[License Agreement](https://github.com/IAB-IITJ/D-LORD/blob/main/License%20Agreement%20for%20D-LORD.pdf)
 
 
